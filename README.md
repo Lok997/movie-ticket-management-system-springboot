@@ -222,6 +222,7 @@ http://localhost:8080
 <img width="1901" height="1016" alt="Screenshot 2026-07-31 202509" src="https://github.com/user-attachments/assets/7d8abdf4-018f-4f71-b4f2-52e980ad2f8f" />
 > <img width="1376" height="973" alt="Screenshot 2026-07-31 202519" src="https://github.com/user-attachments/assets/98b8d431-92bf-427a-84d3-2aa76e7cc01b" />
 <img width="1802" height="547" alt="Screenshot 2026-07-31 202434" src="https://github.com/user-attachments/assets/b34ab4a6-cd08-49a8-b8cb-10e7a4d1756b" />
+<img width="1205" height="453" alt="Screenshot 2026-07-31 202826" src="https://github.com/user-attachments/assets/635b4559-8648-4f9d-8029-04708f2e4b95" />
 
 
 
