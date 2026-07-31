@@ -17,6 +17,8 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Template-darkgreen?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?style=for-the-badge&logo=bootstrap)
 ![Maven](https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven)
+<img width="1205" height="453" alt="image" src="https://github.com/user-attachments/assets/a4884a82-c547-44e8-8845-b07ef34c9417" />
+
 
 </div>
 
